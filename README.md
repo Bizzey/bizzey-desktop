@@ -4,7 +4,7 @@
 
 ## The Repository
 
-This repository is where we (Bizzey) develop the [Bizzey Desktop](https://www.bizzey.be) product. Not only do we work on code and issues here, we also publish our roadmap, monthly iteration plans, and our endgame plans. The source code here is available to everyone under the standard [MIT license](https://github.com/Bizzey/bizzey-desktop/LICENSE).
+This repository is where we (Bizzey) develop the [Bizzey Desktop](https://www.bizzey.be) product. Not only do we work on code and issues here, we also publish our roadmap, monthly iteration plans, and our endgame plans. The source code here is available to everyone under the standard [MIT license](https://github.com/Bizzey/bizzey-desktop/blob/master/LICENSE).
 
 ## Bizzey Desktop
 
@@ -28,4 +28,4 @@ Many of the core components and extensions . live in their own repositories on G
 
 Copyright (c) Bizzey . All rights reserved.
 
-Licensed under the [MIT](LICENSE) license.
+Licensed under the [MIT](https://github.com/Bizzey/bizzey-desktop/blob/master/LICENSE) license.
